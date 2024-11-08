@@ -1,0 +1,112 @@
+.hello{
+  background-color: lightskyblue;
+}
+.whatsapp{
+  border: 4px solid #27ae60;
+  border-radius: 0,5rem;
+}
+.whatsapp:hover{
+  background-color: #27ae60;
+  border-radius: 1rem;
+}
+
+.Contact{
+  border: 4px solid #0acefe;
+  border-radius: 0.5rem;
+  background: linear-gradient(to right , #0acefe , #2699fb);
+}
+h1{
+  font-size: 44px;
+}
+
+.inline{
+  color: #2699fb;
+  font-weight: 700;
+}
+.p{
+  font-size: 24px;
+}
+li{
+  text-align: start;
+  list-style: none;
+  font-size: 22px;
+  line-height: 40px;
+}
+li i{
+  color: #2699fb;
+}
+.btnbanner button{
+  width: 50%;
+  margin-top: 5rem;
+  line-height: 3rem;
+
+}
+.btnbanner button i{
+  margin-right: 0.5rem;
+}
+.btn1{
+  background-color: #0acefe;
+  border: 2px solid;
+}
+.btn1:hover{
+  background-color: white;
+  border-radius: 1rem;
+}
+.btn2:hover{
+ 
+  background: linear-gradient(to right , #0acefe , #2699fb);
+  border-radius: 1rem;
+}
+.bannerform{
+  padding: 40px;
+}
+.bannerform .btn3 button{
+  border: #0acefe;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  background: linear-gradient(to right , #0acefe , #2699fb);
+}
+
+.content h2{
+  font-size: 30px;
+  color: #2699fb;
+}
+
+.highlight h3{
+  font-size: 20px;
+}
+
+.hellow{
+  padding-left: 38rem;
+}
+.section22{
+  margin-top: 5rem;
+  text-align: center;
+  color: #0acefe;
+  font-weight: 700;
+}
+
+.he123 .rowmy{
+  background-color: #bce7f1;
+}
+.he122 .he13{
+  background-color: #bce7f1;
+}
+
+.he122 h2{
+  font-size: 45px;
+}
+.he122 .he12{
+  border: 2px solid black;
+  border-radius: 1rem;
+  max-width: 1800px;
+}
+.he122 ul {
+  margin-top: 2rem;
+}
+.he122 .tabb{
+  margin-bottom: 2rem;
+  line-height: 30px;
+  color: black;
+}
